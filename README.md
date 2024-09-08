@@ -66,6 +66,6 @@ Basic application of NE555 Timer operating in Astable Mode, where it is essentia
 
 <h2>Schematic:</h2>
 
-<img src="https://github.com/user-attachments/assets/93deaf3a-6cfe-4d35-8155-6f122edc2fea" height="80%" width="80%" alt="NPN-Inverter"/>
+<img src="https://github.com/user-attachments/assets/71e1dd86-aa86-4703-84c3-30bc97f47536"/>
 <br />
 <br />
