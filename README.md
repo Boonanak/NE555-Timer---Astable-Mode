@@ -14,14 +14,6 @@ Basic application of NE555 Timer operating in Astable Mode, where it is essentia
 <h2>Parts List</h2>
 
 <ul>
-  <li><strong>Push Button</strong>
-    <ul>
-      <li>Manufacturer: Wurth Electronik</li>
-      <li>Specifications: Momentary, SPST, 50mA at 12V DC, Operating Force: 160gf</li>
-      <li><a href="https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/430182043816/5209017" target="_blank">Datasheet</a></li>
-      <li>Supplier: DigiKey</li>
-    </ul>
-  </li>
   <li><strong>Resistor (10kΩ) x 2</strong>
     <ul>
       <li>Manufacturer: BOJACK</li>
