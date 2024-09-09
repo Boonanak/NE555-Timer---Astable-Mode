@@ -1,4 +1,4 @@
-<h1>NPN AND Gate</h1>
+<h1>NE555 Timer - Astable Mode</h1>
 
  ### [YouTube Demonstration](https://youtube.com/shorts/PX4QuS0FPDo?feature=share)
 
